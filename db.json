@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "body": "Hey there, buddy!",
+      "created": "2019-09-28T20:27:00.000+0"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
